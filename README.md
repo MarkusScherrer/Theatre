@@ -1,2 +1,0 @@
-# Theatre
-Testumgebung für Theater
